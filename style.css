@@ -1,0 +1,61 @@
+#profile-picture {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
+h1 {
+  color: #f35b04;
+  font-family: "Poppins", sans-serif;
+}
+
+h2 {
+  color: #f7b801;
+}
+
+p {
+  color: #3d348b;
+}
+
+.card-white {
+  box-shadow: 2px 2px 10px rgba(0,0,0, 0.4);
+  margin: 10px;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+
+#container {
+  text-align: center;
+  width: 1000px;
+  margin: 20px auto;
+}
+
+a {
+  display: block;
+  background-color: #7678ed;
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+  border-radius: 20px;
+  margin: 50px;
+}
+
+a:hover {
+  background-color: #3d348b;
+}
+
+#cards-container {
+  display: flex;
+}
+
+
+.fa-brands {
+  font-size: 40px;
+  color: #7678ed;
+  margin: 50px;
+}
+
+
